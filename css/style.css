@@ -1,6 +1,6 @@
 body {
 
-  background-color: #00BCE3;
+  background-color: #00596B;
   color: #FFFFFF;
   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
   font-size: 16px
@@ -83,12 +83,13 @@ a {
 }
 
 a:link { color:#ffd700; } /* unvisited */
-a:visited { color:#cd9b9b; } /* visited */
+a:visited { color:#FFADE1; } /* visited */
 a:hover { color:#FFFFFF; } /* mouse over */
-a:active { color:#cd9b9b; } /* selected */
+a:active { color:#FFADE1; } /* selected */
 
 
 .container {
   margin: 0 auto;
   width: 75%;
+  max-width: 960px;
 }
